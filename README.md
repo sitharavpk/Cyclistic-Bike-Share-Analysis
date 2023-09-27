@@ -19,7 +19,7 @@ Here, the *business task* is to "Analyze rider's usage patterns for marketing me
 
 **Tools Used**: `RStudio` for data cleaning and `Tableau` for data visualization.
 
-For the code, refer `Cyclistic_22-23_GoogleAnalytics.R`
+For the code, refer [`Cyclistic_22-23_GoogleAnalytics.R`](https://github.com/sitharavpk/Cyclistic-Bike-Share-Analysis/blob/main/Cyclistic_22-23_GoogleAnalytics.R)
 
 
 
