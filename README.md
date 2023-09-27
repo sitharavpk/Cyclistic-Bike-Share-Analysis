@@ -21,6 +21,7 @@ Here, the *business task* is to "Analyze rider's usage patterns for marketing me
 
 For the code, refer [`Cyclistic_22-23_GoogleAnalytics.R`](https://github.com/sitharavpk/Cyclistic-Bike-Share-Analysis/blob/main/Cyclistic_22-23_GoogleAnalytics.R)
 
+For the analysis report, refer [`Cyclistic_ppt`](https://github.com/sitharavpk/Cyclistic-Bike-Share-Analysis/blob/main/Cyclistic-Analysis.pdf)
 
 
 ### Summary:
