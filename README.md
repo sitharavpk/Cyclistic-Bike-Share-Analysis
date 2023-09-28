@@ -17,7 +17,7 @@ Here, the *business task* is to "Analyze rider's usage patterns for marketing me
 
 **Dataset**: [Cyclistic’s historical trip data from August 2022 to July 2023](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
-**Tools Used**: `RStudio` for data cleaning and `Tableau` for data visualization.
+**Tools Used**: `RStudio` for data cleaning and data visualization.
 
 For the code, refer [`Cyclistic_22-23_GoogleAnalytics.R`](https://github.com/sitharavpk/Cyclistic-Bike-Share-Analysis/blob/main/Cyclistic_22-23_GoogleAnalytics.R)
 
